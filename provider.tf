@@ -1,9 +1,9 @@
 provider "aws" {
-  alias  = "ap1"
+  alias  = "ap3"
   region = "ap-south-1"
 }
 
 provider "aws" {
-  alias  = "ap2"
+  alias  = "ap4"
   region = "ap-southeast-1"
 }
